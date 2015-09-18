@@ -14,3 +14,14 @@ Part 2
 
 -- https://github.com/sarahabrahamson/Spoon-Knife
 -- ![alt text](https://github.com/sarahabrahamson/CSCI2961_Lab3/blob/master/p2.png)
+
+Part 3
+
+1 Fork Repo, pull request for file on original done
+
+2 git diff shows difference of branches
+
+3 git tagging is good for software releases. It allows you to see old versions vs new versions.
+
+4 https://github.com/sarahabrahamson/courseproject/
+

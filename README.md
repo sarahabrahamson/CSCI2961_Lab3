@@ -2,11 +2,15 @@
 
 Part 1a
 
--- ![alt text](https://github.com/sarahabrahamson/CSCI2961_Lab3/blob/master/lab3p1READMEsc.png)
+--* ![alt text](https://github.com/sarahabrahamson/CSCI2961_Lab3/blob/master/lab3p1READMEsc.png)
 
--- https://github.com/sarahabrahamson/exercise2
+--* https://github.com/sarahabrahamson/exercise2
 
 Part 1b
 -- ![alt text](https://github.com/sarahabrahamson/CSCI2961_Lab3/blob/master/lab3p1.png)
 
 
+Part 2
+
+-- https://github.com/sarahabrahamson/Spoon-Knife
+-- ![alt text](https://github.com/sarahabrahamson/CSCI2961_Lab3/blob/master/p2.png)

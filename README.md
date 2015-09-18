@@ -7,5 +7,6 @@ Part 1a
 -- https://github.com/sarahabrahamson/exercise2
 
 Part 1b
-1. 
+-- ![alt text](https://github.com/sarahabrahamson/CSCI2961_Lab3/blob/master/lab3p1.png)
+
 
